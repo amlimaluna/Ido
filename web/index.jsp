@@ -88,7 +88,7 @@
   <option value="Blz">Beleza</option>
   <option value="Ftg">Fotografia</option>
   <option value="Md">Moda</option>
-  <option value="Cns">Consultório</option>
+  <option value="Cns">Saúde</option>
   <option value="Lj">Loja</option>
 
 
