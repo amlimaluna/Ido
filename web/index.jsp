@@ -84,12 +84,13 @@
             <p><input type="email" name="user" class="form-control" id="exampleFormControlInput1" Placeholder="Username" style="width:40%" required/></p> <br>
            
             <select  class="ui search dropdown form-control" style="width:40%" >
-  <option value="">Vestuário</option>
-  <option value="ADM">Beleza</option>
-  <option value="ADV">Nutrição</option>
-  <option value="AZ">Decoração</option>
-  <option value="AR">Arkansas</option>
-  <option value="CA">California</option>
+   <option value="">Categoria</option>
+  <option value="Blz">Beleza</option>
+  <option value="Ftg">Fotografia</option>
+  <option value="Md">Moda</option>
+  <option value="Cns">Consultório</option>
+  <option value="Lj">Loja</option>
+
 
 
 </select>
