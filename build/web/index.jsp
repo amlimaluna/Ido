@@ -89,7 +89,7 @@
   <option value="Ftg">Fotografia</option>
   <option value="Md">Moda</option>
   <option value="Cns">Saúde</option>
-  <option value="Lj">Loja</option>
+  <option value="Lj">Decoração</option>
 
 
 
