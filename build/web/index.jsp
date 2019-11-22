@@ -79,9 +79,9 @@
         <div class="row">
           <div class="col-md-12">
               <center>
-              <form action="LoginServlet" method="post">
+              <form action="rank" method="post">
             <br>
-            <p><input type="email" name="user" class="form-control" id="exampleFormControlInput1" Placeholder="Username" style="width:40%" required/></p> <br>
+            <p><input type="text" name="user" class="form-control" id="exampleFormControlInput1" Placeholder="Username" style="width:40%" required/></p> <br>
            
             <select  class="ui search dropdown form-control" style="width:40%" >
    <option value="">Categoria</option>
@@ -96,9 +96,14 @@
 </select>
             
             <br><br>
-            <div><button type="submit" class="btn btn-primary"> DO! </button> </div>
-     
-             <div class="clearfix"></div>
+            <a > <button type="button" id="btdo" class="btn btn-primary"> DO! </button> </a>
+            <br><br>
+            <div id="rnk"><section> <ul>
+<li>@teste</li>
+<li>@teste1</li>
+<li>@teste2</li>
+<li>@teste3</li>
+</ul></section></div>
  
              </form>
           </center>      
@@ -106,6 +111,8 @@
         </div>
       </div>
     </section>
+    
+    
     
 
     <section class="ftco-section ftco-degree-bg">
@@ -417,6 +424,16 @@
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function (e) {
+        $("#rnk").hide();
+
+        $("#btdo").click(function (e) {
+            $("#rnk").toggle();
+        });
+    });
+</script>
 
   <script src="js/jquery.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
