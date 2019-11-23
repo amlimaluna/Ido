@@ -126,7 +126,7 @@
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon color-1 d-flex justify-content-center mb-3"><span class="align-self-center icon-layers"></span></div></div>
+              <div class="d-flex justify-content-center"><div class="icon color-1 d-flex justify-content-center mb-3"><span class="align-self-center icon-check"></span></div></div>
               <div class="media-body p-2">
                 <h3 class="heading">Marketing eficiente</h3>
                 <p>Técnica de mineração para identificar os perfis potenciais com base em suas interações.</p>
@@ -135,7 +135,7 @@
           </div>
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center icon-gears"></span></div></div>
+              <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center icon-money"></span></div></div>
               <div class="media-body p-2">
                 <h3 class="heading">Totalmente gratuito</h3>
                 <p>Sem meia informação, sem necessidade de pagamento. Queremos te proporcionar um marketing totalmente gratuito.</p>
@@ -144,7 +144,7 @@
           </div>
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon color-3 d-flex justify-content-center mb-3"><span class="align-self-center icon-paper-plane"></span></div></div>
+              <div class="d-flex justify-content-center"><div class="icon color-3 d-flex justify-content-center mb-3"><span class="align-self-center icon-globe"></span></div></div>
               <div class="media-body p-2">
                 <h3 class="heading">Código aberto</h3>
                 <p>A ideia é deixar disponível para a comunidade virtual ter acesso ao desenvolvimento.</p>
@@ -154,7 +154,7 @@
 
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon color-4 d-flex justify-content-center mb-3"><span class="align-self-center icon-live_help"></span></div></div>
+              <div class="d-flex justify-content-center"><div class="icon color-4 d-flex justify-content-center mb-3"><span class="align-self-center icon-star"></span></div></div>
               <div class="media-body p-2">
                 <h3 class="heading">Dicas exclusivas</h3>
                 <p>O que fazer e como? Dicas para entender e contornar as mudanças do algoritmo do Instagram.</p>
@@ -170,7 +170,7 @@
         <div class="container">
           <div class="row d-flex justify-content-center">
             <div class="col-md-10 text-center heading-section heading-section-white ftco-animate">
-              <h2 class="h1 font-weight-bold">Turn every channel into a revenue channel and drive business growth</h2>
+              <h2 class="h1 font-weight-bold">Vídeo Funcional</h2>
               <p><a href="#" class="btn btn-primary btn-outline-white mt-3 py-3 px-4">View more details</a></p>
             </div>
           </div>
@@ -183,8 +183,8 @@
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Customer Says</span>
-            <h2>Our satisfied customer says</h2>
+            <span class="subheading">Feedbacks</span>
+            <h2>Avaliações</h2>
           </div>
         </div>
         <div class="row ftco-animate">
@@ -266,41 +266,30 @@
       </div>
     </section>
     
-    <section class="ftco-section ftco-counter ftco-degree-bg" id="section-counter">
-      <div class="container">
+  <center> <section class="ftco-section ftco-counter ftco-degree-bg" id="section-counter">
+      <div class="container  text-center">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-            <h2>Our achievements</h2>
+            <h2>Contato</h2>
           </div>
         </div>
         <div class="row">
-          <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 text-center">
-              <div class="text">
-                <strong class="number" data-number="1000">0</strong>
-                <span>Customers are satisfied with our professional support</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 text-center">
-              <div class="text">
-                <strong class="number" data-number="12000">0</strong>
-                <span>Amazing preset options to be mixed and combined</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 text-center">
-              <div class="text">
-                <strong class="number" data-number="10000">0</strong>
-                <span>Average response time on live chat support channel</span>
-              </div>
-            </div>
-          </div>
+         
+            <form>
+  <div class="form-group  text-center">
+    <label for="exampleFormControlInput1">Seu e-mail:</label>
+    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="nome@exemplo.com">
+  </div>
+ 
+  <div class="form-group">
+    <label for="exampleFormControlTextarea1">Mensagem:</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+  </div>
+</form>
+         
         </div>
       </div>
-    </section>
+      </section> </center>
 
     <section class="ftco-section ftco-degree-bg">
       <div class="container">
