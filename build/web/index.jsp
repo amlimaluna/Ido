@@ -266,32 +266,7 @@
       </div>
     </section>
     
-  <center> <section class="ftco-section ftco-counter ftco-degree-bg" id="section-counter">
-      <div class="container  text-center">
-        <div class="row justify-content-center mb-5 pb-5">
-          <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-            <h2>Contato</h2>
-          </div>
-        </div>
-        <div class="row">
-         
-            <form>
-  <div class="form-group  text-center">
-    <label for="exampleFormControlInput1">Seu e-mail:</label>
-    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="nome@exemplo.com">
-  </div>
- 
-  <div class="form-group">
-    <label for="exampleFormControlTextarea1">Mensagem:</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-  </div>
-</form>
-         
-        </div>
-      </div>
-      </section> </center>
-
-    <section class="ftco-section ftco-degree-bg">
+  <section  class="ftco-section ftco-counter ftco-degree-bg" id="section-counter">
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
@@ -345,6 +320,32 @@
         </div>
       </div>
     </section>
+    
+  <center>    <section class="ftco-section ftco-degree-bg"> 
+      <div class="container  text-center" id="contato">
+        <div class="row justify-content-center mb-5 pb-5">
+          <div class="col-md-7 text-center heading-section heading-section-black ftco-animate">
+            <h2>Contato</h2>
+          </div>
+        </div>
+        <div class="row">
+         
+            <form>
+  <div class="form-group  text-center">
+    <label for="exampleFormControlInput1">Seu e-mail:</label>
+    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="nome@exemplo.com">
+  </div>
+ 
+  <div class="form-group">
+    <label for="exampleFormControlTextarea1">Mensagem:</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+  </div>
+</form>
+         
+        </div>
+      </div>
+      </section> </center>
+
 
     <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
