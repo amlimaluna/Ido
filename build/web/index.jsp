@@ -27,6 +27,7 @@
 
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="css/jquery.timepicker.css">
+   
 
     
     <link rel="stylesheet" href="css/flaticon.css">
@@ -98,12 +99,15 @@
             <br><br>
             <a > <button type="button" id="btdo" class="btn btn-primary"> DO! </button> </a>
             <br><br>
-            <div id="rnk"><section> <ul>
-<li>@teste</li>
-<li>@teste1</li>
-<li>@teste2</li>
-<li>@teste3</li>
-</ul></section></div>
+            <div id="rnk"><section> 
+                
+               <ul class="list-group">
+                    <li class="list-group-item d-flex justify-content-between align-items-center"><strong>@</strong>fulano <span class="badge badge-info badge-pill">70%</span></li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center"><strong>@</strong>ciclano <span class="badge badge-info badge-pill">50%</span></li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center"><strong>@</strong>beltrano <span class="badge badge-info badge-pill">30%</span></li>
+                </ul>
+                    
+                </section></div>
  
              </form>
           </center>      
@@ -269,7 +273,7 @@
   <section  class="ftco-section ftco-counter ftco-degree-bg" id="section-counter">
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
-          <div class="col-md-7 text-center heading-section ftco-animate">
+          <div class="col-md-7 text-center heading-section ftco-animate heading-section-white">
             <span id="dicas" class="subheading">Dicas</span>
             <h2>Últimas dicas</h2>
           </div>
@@ -277,7 +281,7 @@
         <div class="row">
           <div class="col-md-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20" style="background-image: url('images/image_1.jpg');">
+              <a href="#" class="block-20" style="background-image: url('images/image_1.jpg');">
               </a>
               <div class="text p-4 d-block">
                 <div class="meta mb-3">

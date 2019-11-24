@@ -4,6 +4,12 @@
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+#rnk {
+    width:50%;
+    text-align: center;
+}
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -8053,7 +8059,7 @@ textarea.form-control {
 
 .ftco-footer {
   font-size: 16px;
-  background: #29bae4;
+  background: #8b658b;
   padding: 12em 0 8em 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
@@ -8303,7 +8309,7 @@ textarea.form-control {
   opacity: 0; }
 
 .ftco-counter {
-  background: #ee76ad;
+  background: #fdba29;
   padding: 15em 0; }
   .ftco-counter .text strong.number {
     font-weight: 400;
