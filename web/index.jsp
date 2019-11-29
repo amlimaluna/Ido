@@ -169,7 +169,7 @@
       </div>
     </section>
 
-    <section class="ftco-section-parallax ftco-degree-bg">
+    <section id="funciona" class="ftco-section-parallax ftco-degree-bg">
       <div class="parallax-img d-flex align-items-center">
         <div class="container">
           <div class="row d-flex justify-content-center">
@@ -285,11 +285,11 @@
               </a>
               <div class="text p-4 d-block">
                 <div class="meta mb-3">
-                  <div><a href="#">July 12, 2018</a></div>
-                  <div><a href="#">Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                  <div><a href="#">Dez 9, 2019</a></div>
+                  <div><a href="#">Amanda Lima</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> Interesse</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">O algoritmo do Instagram entende o quanto você gosta de um assunto pela forma como você se comporta dentro da ferramenta. Se você curte muitos posts de maquiagem e comenta em vídeos de cachorros, por exemplo, o algoritmo entende que deve dar prioridade a esses temas no seu feed.</a></h3>
               </div>
             </div>
           </div>
@@ -299,11 +299,13 @@
               </a>
               <div class="text p-4">
                 <div class="meta mb-3">
-                  <div><a href="#">July 12, 2018</a></div>
-                  <div><a href="#">Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                  <div><a href="#">Dez 9, 2019</a></div>
+                  <div><a href="#">Amanda Lima</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> Usabilidade</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">A frequência com que você usa o Instagram também influencia em como o seu feed vai aparecer. Quem usa muito a plataforma vai receber conteúdos sempre bem atualizados.
+
+Já quem entra uma vez no dia ou até mesmo poucas vezes na semana, recebe conteúdos mais antigos, mas que sejam de maior interesse.</a></h3>
               </div>
             </div>
           </div>
@@ -313,11 +315,11 @@
               </a>
               <div class="text p-4">
                 <div class="meta mb-3">
-                  <div><a href="#">July 12, 2018</a></div>
-                  <div><a href="#">Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                  <div><a href="#">Dez 9, 2019</a></div>
+                  <div><a href="#">Amanda Lima</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> Novos Recursos</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">Use os novos recursos do instagram!! Anota pra não esquecer: o Instagram recompensa perfis que usam os recursos novos do da rede social. E como eles recompensam? Com mais alcance, ou seja, mostrando seu perfil com mais prioridade. Ganha você e ganha a plataforma, bingo!</a></h3>
               </div>
             </div>
           </div>
@@ -325,8 +327,8 @@
       </div>
     </section>
     
-  <center>    <section class="ftco-section ftco-degree-bg"> 
-      <div class="container  text-center" id="contato">
+  <section class=" ftco-degree-bg"> 
+      <div class="container " id="contato">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section heading-section-black ftco-animate">
             <h2>Contato</h2>
@@ -335,7 +337,7 @@
         <div class="row">
          
             <form>
-  <div class="form-group  text-center">
+  <div class="form-group">
     <label for="exampleFormControlInput1">Seu e-mail:</label>
     <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="nome@exemplo.com">
   </div>
@@ -348,7 +350,7 @@
          
         </div>
       </div>
-      </section> </center>
+      </section>
 
 
     <footer class="ftco-footer ftco-bg-dark ftco-section">
@@ -356,42 +358,46 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Company</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+              <h2 class="ftco-heading-2">Uma Abordagem para Seleção de Perfis com o Intuito de Recomendar Marketing Digital no Instagram</h2>
+
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
-                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="www.twitter.com/_amlima"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="www.facebook.com/amandalimaofc"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="www.instagram.com/amandalimams"><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
           </div>
           <div class="col-md">
              <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Quick Links</h2>
+              <h2 class="ftco-heading-2">Links</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">Home</a></li>
-                <li><a href="#" class="py-2 d-block">About</a></li>
-                <li><a href="#" class="py-2 d-block">Services</a></li>
-                <li><a href="#" class="py-2 d-block">Portfolio</a></li>
-                <li><a href="#" class="py-2 d-block">Contact</a></li>
-                <li><a href="#" class="py-2 d-block">Privacy</a></li>
+                <li><a href="#" class="py-2 d-block">Início</a></li>
+                <li><a href="#sobre" class="py-2 d-block">Sobre</a></li>
+                <li><a href="#funciona" class="py-2 d-block">Como Funciona</a></li>
+                <li><a href="#dicas" class="py-2 d-block">Dicas</a></li>
+                <li><a href="#ontato" class="py-2 d-block">Contato</a></li>
+               
               </ul>
             </div>
           </div>
           <div class="col-md">
              <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Contact Information</h2>
+              <h2 class="ftco-heading-2">Informações</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">198 West 21th Street, Suite 721 New York NY 10016</a></li>
-                <li><a href="#" class="py-2 d-block">+ 1235 2355 98</a></li>
-                <li><a href="#" class="py-2 d-block">info@yoursite.com</a></li>
-                <li><a href="#" class="py-2 d-block">email@email.com</a></li>
+                <li><a href="#" class="py-2 d-block">Fortaleza - Ceará</a></li>
+          
+                <li><a href="#" class="py-2 d-block">www.github.com/amlimaluna/Ido</a></li>
+                <li><a href="#" class="py-2 d-block">amlimaluna@gmail.com</a></li>
               </ul>
             </div>
           </div>
-          <div class="col-md">
+           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-       teste
+              <h2 class="ftco-heading-2">Trabalho de Conclusão de Curso</h2>
+              <p>Sistemas e Mídias Digitais - Universidade Federal do Ceará</p>
+              <form action="#" class="subscribe-form">
+                
+              </form>
             </div>
           </div>
         </div>
